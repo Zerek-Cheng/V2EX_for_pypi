@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"
+    , "requests>=2.28.1"
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "v2ex"
+version = "1.0.1"
+authors = [
+  { name="Zerek", email="Zerek00@163.com" },
+]
+description = "一个标准调用V2EX RESTful API2.0的 Python SDK"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
