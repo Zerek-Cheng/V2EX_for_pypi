@@ -1,4 +1,4 @@
->> The Module: V2EX
+>> The Module: V2EX-CLI
 > 
 >> 一个标准调用V2EX RESTful API2.0的 Python SDK
 > 

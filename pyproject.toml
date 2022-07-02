@@ -5,8 +5,8 @@ requires = ["setuptools>=61.0"
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "v2ex"
-version = "1.0.2"
+name = "v2ex-cli"
+version = "1.0.3"
 authors = [
   { name="Zerek", email="Zerek00@163.com" },
 ]
