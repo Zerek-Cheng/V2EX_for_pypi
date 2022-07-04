@@ -5,12 +5,12 @@ requires = ["setuptools>=61.0"
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "v2ex-cli"
-version = "1.0.3"
+name = "v2ex-py"
+version = "1.0.4"
 authors = [
   { name="Zerek", email="Zerek00@163.com" },
 ]
-description = "一个标准调用V2EX RESTful API2.0的 Python SDK"
+description = "一个标准调用V2EX RESTful API2.0的 Python API SDK"
 readme = "README.md"
 license = { file="LICENSE" }
 requires-python = ">=3.8"
