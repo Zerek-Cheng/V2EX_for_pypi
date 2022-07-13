@@ -7,7 +7,7 @@
 ```
 import v2ex.v2ex
 api = v2ex.ApiCli(token="xxxxxxxx-xxxxxxxx-xxxxxxx-xxxxxxxx")   #此处填写你的TOKEN
-api
+api........
 ```
 
 模块中大部分函数与官方函数名保持一致(https://v2ex.com/help/api)
